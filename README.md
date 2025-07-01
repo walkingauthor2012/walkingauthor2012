@@ -57,6 +57,3 @@
 
 ---
 
-<p align="center">
-  🚀 <b>Learning is a journey, and I'm here to enjoy every step of it!</b>
-</p>  
